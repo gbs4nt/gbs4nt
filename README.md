@@ -8,7 +8,7 @@ Estudo programação há alguns meses atualmente com foco em Java, Spring Boot e
 ## Tenho conhecimento prático e acadêmico em:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,js,postgres,git&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,postgres,mysql,git&perline=6" />
   </a>
 </p>
 
