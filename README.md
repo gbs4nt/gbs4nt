@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, me chamo Gabriel Lima.
 
-<!--
-**gbs4nt/gbs4nt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+Estudo programação há alguns meses atualmente com foco em Java, Spring Boot e caminhando pra microserviços + docker.
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tenho conhecimento prático e acadêmico em:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,js,postgres,git&perline=6" />
+  </a>
+</p>
+
+
+## Tecnologias e ferramentas que estou aprendendo:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,angular" />
+  </a>
+</p>
