@@ -16,6 +16,6 @@ Estudo programação há alguns meses atualmente com foco em Java, Spring Boot e
 ## Tecnologias e ferramentas que estou aprendendo:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=docker,angular" />
   </a>
 </p>
