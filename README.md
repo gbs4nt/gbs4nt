@@ -1,7 +1,11 @@
 # Olá, me chamo Gabriel Lima.
 
 <p>
-Estudo programação há alguns meses atualmente com foco em Java, Spring Boot e caminhando pra microserviços + docker.
+ Sou um desenvolvedor backend em formação, apaixonado por tecnologia desde criança e sempre buscando evoluir.
+Atualmente, curso Análise e Desenvolvimento de Sistemas (2º semestre) e tenho focado meus estudos em Java, Spring Boot e bancos de dados relacionais.
+
+No momento, estou aprendendo Spring Security, Docker e testes unitários, com o objetivo de desenvolver aplicações seguras, escaláveis e de fácil manutenção.
+Sou uma pessoa proativa, comprometida e gosto de entender o funcionamento interno das tecnologias com as quais trabalho. 🚀
 
 </p>
 
