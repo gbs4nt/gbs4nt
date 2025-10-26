@@ -20,6 +20,6 @@ Sou uma pessoa proativa, comprometida e gosto de entender o funcionamento intern
 ## Tecnologias e ferramentas que estou aprendendo:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,angular" />
+    <img src="https://skillicons.dev/icons?i=docker,angular,react" />
   </a>
 </p>
